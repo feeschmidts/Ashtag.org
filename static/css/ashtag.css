@@ -38,6 +38,10 @@ body {
 	padding-right:20px;
 }
 
+.iframe-style{
+	border: 0;
+}
+
 header {
 	background: white;
 	background: rgb(255, 255, 255);
