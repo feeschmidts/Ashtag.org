@@ -52,27 +52,6 @@ footer, .white-background {
 	margin-top: 30px;
 }
 
-
-.border {
-	border-style:solid;
-	border-width:12px;
-	border-color: #A9A9A9;
-}
-
-.border-thin {
-	border-style:solid;
-	border-width:1px;
-	border-color: #A9A9A9;
-}
-
-.image-right {
-	margin-left: 3em;
-}
-
-.video {
-	margin-top: 1.5em;
-}
-
 a {
   color: #FF9900;
   text-decoration: none;
@@ -82,11 +61,6 @@ a {
 a:hover {
   color: #66CC00;
   text-decoration: underline;
-}
-
-caption {
-font-family: 'Dosis', sans-serif;
-font-size: 15px;	
 }
 
 h1 {
@@ -156,112 +130,11 @@ p.small {
   color: #999999;
 }
 
-.caption {
-	font-size: 14px;
-  	color: #999999;
-  	margin-top: 10px;
-}
-
-p.note {
-	font-family: 'Waiting for the Sunrise', cursive;
-	font-size: 21px;
-	line-height: 1.5em;
-	margin-top: 20px;
-}
-
 blockquote {
 	font-family: 'Dosis', sans-serif;
 	font-size: 30px;
 	margin: 10px;
 	line-height: 1.3em;
-}
-
-.btn {
-	margin: 3px;
-	color:#FF9F40;
-}
-
-.horizontal_dotted_line 
-{ 
-border-bottom: 1px dotted #80c080; 
-width: 100px; 
-} 
-
-.rotate {
-	-moz-transform:rotate(2deg);
-	-webkit-transform:rotate(2deg);
-	-o-transform:rotate(2deg);
-	-ms-transform:rotate(2deg);
-}
-
-.rotate-left {
-	-moz-transform:rotate(-2deg);
-	-webkit-transform:rotate(-2deg);
-	-o-transform:rotate(-2deg);
-	-ms-transform:rotate(-2deg);
-}
-
-.dropshadow {
-	-moz-box-shadow: 5px 5px 2px #E0D8E0;
-	-webkit-box-shadow: 5px 5px 2px #E0D8E0;
-	box-shadow: 5px 5px 2px #E0D8E0;
-}
-
-.statement {
-	font-family: 'The Girl Next Door', cursive;
-	font-size: 2em;
-	margin-top: 50px;
-	line-height: 1.3em;
-}
-
-.instructions {
-	margin-top: 50px;
-	font-family:'The Girl Next Door', cursive;
-	font-size: 1.3em;
-	line-height: 1em;
-	-moz-transform:rotate(-2deg);
-	-webkit-transform:rotate(-2deg);
-	-o-transform:rotate(-2deg);
-	-ms-transform:rotate(-2deg);
-}
-
-ul,
-ol {
-  padding: 0;
-  margin: 0 0 9px 25px;
-}
-
-ul ul,
-ul ol,
-ol ol,
-ol ul {
-  margin-bottom: 0;
-}
-
-ul {
-  list-style: circle;
-  list-style-image: url(URL);
-}
-
-ol {
-  list-style: decimal;
-}
-
-li {
-  line-height: 18px;
-  font-family: 'Dosis', sans-serif; 
-}
-.span12 li {
-	font-family: 'Dosis', sans-serif;
-	font-size: 20px;
-	line-height: 1.3em;
-}
-
-.span4 li {
-	font-family: 'Dosis', sans-serif;
-	font-size: 20px;
-	line-height: 1.3em;
-	line-height: 28px;
 }
 
 .logo img {
